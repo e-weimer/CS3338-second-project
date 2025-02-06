@@ -1,0 +1,92 @@
+commit 12e7cb99da08a769f0d9e6b4b38efbbe07a3c53d
+Merge: 755a9dc af6f142
+Author: Emily Weimer <147999373+e-weimer@users.noreply.github.com>
+Date:   Wed Feb 5 21:57:26 2025 -0800
+
+    Merge pull request #2 from e-weimer/teammate-branch
+    
+    Edit index.html to add new content
+
+commit af6f142bd95ef73d0f7165fcb07355c8a19a0dc3
+Merge: 44ad67d 755a9dc
+Author: Emily Weimer <147999373+e-weimer@users.noreply.github.com>
+Date:   Wed Feb 5 21:55:57 2025 -0800
+
+    Merge branch 'main' into teammate-branch
+
+commit 44ad67d097bbb2643f92446af22c3aab72645f04
+Author: Cindrella Shine <cindrellashine12@yahoo.com>
+Date:   Wed Feb 5 21:32:07 2025 -0800
+
+    Edit index.html to add new content
+
+commit 755a9dcc8c4e8fddfd7ea7bf5127f94e3054b2fc
+Author: e-weimer <elle.weimer@gmail.com>
+Date:   Wed Feb 5 21:29:35 2025 -0800
+
+    Updated file to include favorite movie.
+
+commit 4d99e9fc4c38112d0b370fbe7fff5df40cf5c2b3
+Author: e-weimer <elle.weimer@gmail.com>
+Date:   Wed Feb 5 20:31:31 2025 -0800
+
+    Added URL to forked repository in text file.
+
+commit 5335787b16e06840f075d332a46644c85997a11f
+Author: e-weimer <elle.weimer@gmail.com>
+Date:   Wed Feb 5 20:30:45 2025 -0800
+
+    Added copy of git log saved to this file.
+
+commit e57a2a48c229b4a20bda9e1b00a49b2d2cf1240b
+Merge: cd46415 127883c
+Author: e-weimer <elle.weimer@gmail.com>
+Date:   Wed Feb 5 20:17:02 2025 -0800
+
+    Adding updated file after resolving merge conflict.
+
+commit 127883c7c28579f74381b2028d7cf0115cc6075c
+Author: e-weimer <elle.weimer@gmail.com>
+Date:   Wed Feb 5 20:11:10 2025 -0800
+
+    Updated to include my favorite game.
+
+commit cd46415144eebb9abda007c729d641c7f12d032b
+Author: e-weimer <elle.weimer@gmail.com>
+Date:   Wed Feb 5 19:59:50 2025 -0800
+
+    Updated to include my favorite food.
+
+commit fd1ff3c6ddda2376ca1bc2a83b3396186e1eccce
+Merge: 3341b26 94a8441
+Author: e-weimer <elle.weimer@gmail.com>
+Date:   Wed Feb 5 17:41:41 2025 -0800
+
+    Added README to repository.
+
+commit 3341b2613137b331b1139e5f88ed6a24f9505833
+Author: e-weimer <elle.weimer@gmail.com>
+Date:   Wed Feb 5 17:10:39 2025 -0800
+
+    Added README for this repo.
+
+commit 94a84411dbf9104e165f1018a87002916ec17b1d
+Merge: 1d2bfc0 193cb12
+Author: Emily Weimer <147999373+e-weimer@users.noreply.github.com>
+Date:   Wed Feb 5 16:59:00 2025 -0800
+
+    Merge pull request #1 from e-weimer/info-fill
+    
+    Request to merge info-fill branch with main branch.
+
+commit 193cb129067fde7bda3ac6f1156a046d9d6ac9ef
+Author: e-weimer <elle.weimer@gmail.com>
+Date:   Wed Feb 5 16:37:55 2025 -0800
+
+    Filled in the blanks for name and hobby.
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
